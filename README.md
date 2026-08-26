@@ -8,6 +8,12 @@ First, clone or download this repository:
 git clone https://github.com/wt12318/AbDesignBech
 ```
 
+------
+
+The `benchmark` folder contains the code for running each antibody design model (`run_model` subfolder; more detailed steps can be found in the Docker image), as well as the code for computing sequence-based and structure-based metrics described in the manuscript (`metrics` subfolder).
+
+------
+
 The Docker image file has been uploaded to BaiduYun. The link is https://pan.baidu.com/s/1qh2Qd_4qtfArk0VKzdXlFQ?pwd=44st. You can load it after downloading.
 
 ```bash

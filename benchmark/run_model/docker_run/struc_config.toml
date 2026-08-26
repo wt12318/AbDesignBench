@@ -1,0 +1,10 @@
+[input]
+pdb_file = "/home/ab/run/1n8z_B_C.pdb"
+[settings]
+design_method = ["DiffAb","AbOpt","AbDockgen","RFantibody"]
+design_num = 5
+Heavy_Chain = "B"
+Antigen_Chain = "C"
+binding_affinity = true
+binding_energy = true
+out_path = "/home/ab/run/output/"
